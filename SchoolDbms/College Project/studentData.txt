@@ -1,2 +1,0 @@
-Id              Name                Class-Section        Age        State        MathsMarks       ScienceMarks        EnglishMarks       ComputerMarks        CraftMarks
-

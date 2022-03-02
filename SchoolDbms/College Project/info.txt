@@ -1,7 +1,0 @@
-for teacher data
-Id      Name                       Age     Salary      Subject     Experience      Education       Class-Section
-
-
-
-for students data
-Id              Name                Class-Section        Age        State        MathsMarks       ScienceMarks        EnglishMarks       ComputerMarks        CraftMarks
