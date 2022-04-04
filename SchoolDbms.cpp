@@ -275,8 +275,7 @@ void Teacher::recordFeeder()
     write.open("teacherData.txt", ios::app);
     if (write.is_open())
     {
-        write << teacherId << "               " << firstName << " " << lastName << "                    " << age << "                     " << salary << "                    " << subjectSpecialised << "                   " << experience << "                    " << education << "                " << teacherOfClass << "-" << teacherOfSection << endl;
-        ;
+        write << teacherId << "               " << firstName << " " << lastName << "                    " << age << "                     " << salary << "                    " << state <<"                    " << subjectSpecialised << "                   " << experience << "                    " << education << "                " << teacherOfClass << "-" << teacherOfSection << endl;
         write.close();
     }
 }
