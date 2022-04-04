@@ -1,0 +1,6 @@
+Id              Name                Class-Section        Age        State        MathsMarks       ScienceMarks        EnglishMarks       ComputerMarks        CraftMarks
+
+13           Shubham Rauthan            4-B              19        Delhi           81                41                  34                  11                 92
+34           Agrim Nahata            7-A              22        Delhi           71                22                  41                  77                 11
+
+
