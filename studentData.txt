@@ -1,7 +1,0 @@
-Id              Name                Class-Section        Age        State        MathsMarks       ScienceMarks        EnglishMarks       ComputerMarks        CraftMarks
-
-18           shubham rauthan            5-J              14        Delhi           81                92                  80                  79                 88
-
-15           priyanshu chaudary            8-C              13        Goa           17                11                  32                  42                 23
-81           Shobit Arya            8-A              19        Delhi           16                89                  35                  92                 34
-
