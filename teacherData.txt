@@ -1,5 +1,0 @@
-Id                   Name                          Age                   Salary                State                Subject               Experience             Education           Class-Section
-
-12               Shubham Rauthan                    52                     244212                    Physics                   6                    Btech                7-B
-71               keshav sharma                    25                     23231                    Hindi                   3                    bsc                1-B
-81               Riya Singh                    51                     32421                    French                   5                    Mtech                9-A
