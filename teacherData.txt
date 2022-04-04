@@ -1,0 +1,9 @@
+Id                   Name                          Age                   Salary                State                Subject               Experience             Education           Class-Section
+
+31               Shubham Rauthan                    20                     9000                 Delhi                  Hindi                   3                    Btech                8-C
+31               Agrim Nahata                    26                     10000                   Delhi                Physcis                   5                    Bsc                8-A
+61               Shweta Meena                    25                     50000                    Delhi                    Cs                   7                    Btech                9-B
+71               Ankita Arora                    24                     70000                    Delhi                    Electrical                   5                    Btech                7-A
+
+
+ 
